@@ -2,7 +2,7 @@
 
 ![](https://enknaqs57d7dwau.m.pipedream.net)
 - 🔭 I’m currently working on [e-kantin](https://github.com/e-kantin/e-kantin)
-- 🌱 I’m currently learning Node.js/MongoDB/React/Xamarin
+- 🌱 I’m currently learning Node.js/MongoDB/React/Xamarin/Kotlin
  ...
 <div align="center">
 <a href="https://www.linkedin.com/in/bedirhangokce" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
