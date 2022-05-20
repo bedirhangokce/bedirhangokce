@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bedirhan</h1>
 
 ![](https://enknaqs57d7dwau.m.pipedream.net)
-- 🔭 I’m currently working on [e-kantin](https://github.com/e-kantin/e-kantin)
+- 🔭 I’m currently working on [fincan-mobile](https://github.com/erenonur19/fincan-mobile)
 - 🌱 I’m currently learning Kotlin
  ...
 <div align="center">
